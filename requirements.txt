@@ -1,0 +1,14 @@
+numpy
+torch
+torchvision
+dvc
+paramiko
+bpython
+natsorted
+tensorboardx
+ray
+psutil
+jupyter
+setproctitle
+hyperopt
+pdbpp

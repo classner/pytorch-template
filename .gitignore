@@ -1,0 +1,7 @@
+*.egg-info
+__pycache__
+.*_cache
+experiments/states
+experiments/features
+sweep
+.python-version
